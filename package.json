@@ -9,7 +9,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "install": "npm install",
-    "i": "npm ci"
+    "i": "npm install"
   },
   "dependencies": {
     "@beyondcorp/beyond-ui": "^1.2.81",
